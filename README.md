@@ -82,3 +82,8 @@ points(S1[,1], S1[,2], col = "blue", pch = 19, cex = 0.4)
 
 This project is licensed under the MIT License.
 
+## Help/ Questions
+
+Do not hesitate to contact us if you need help or would like to try out a particular setting.
+
+
