@@ -9,11 +9,17 @@ This project addresses the issue of denoising when the latent variables are supp
 
 ## Functions
 
-The main function included in the script is:
+The main functions included in the script is:
 
+
+### `multiexponentsL(dim,deg)`
+
+Generate the exponents for the polynomials of degree at most deg in dimension dim.
 
 ### `Vandermonde(X, U, sigma)`
-Construct the debiased moment matrix for the given parameters.
+
+Construct the debiased moment matrix for the given parameters. 
+X is the dataset, U is the ouput of multiexponents and sigma is the denoising level required. 
 
 
 
